@@ -1,2 +1,3 @@
-# solidity_tutorials
-Relevant examples for solidity  
+# Solidity Tutorials
+
+Relevant examples in Solidity  
